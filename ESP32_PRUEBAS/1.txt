@@ -1,0 +1,68 @@
+Objetivo Particular
+Convertir el proceso de ordenar comida en McDonald’s en un momento memorable mediante el uso de tecnología.
+
+
+Especificaciones Técnicas/Tecnológicas
+Puede utilizarse cualquier plataforma tecnológica. Se priorizarán
+soluciones escalables que puedan ser utilizadas en los restaurantes, y el uso creativo de tecnologías para hacer accesible la solución para todos.
+
+
+Tipo de Solución
+Soluciones que complementen el proceso actual, haciendo uso de elementos existentes (kioscos, AutoMac, aplicación móvil, programa de lealtad) o integrando nuevos elementos.
+La mejora de la experiencia no está limitada al consumidor final, sino que incluye a las personas que trabajan preparando tu comida.
+
+Motivación en el Desarrollo del Track
+La experiencia de disfrutar una comida deliciosa comienza por poder pedirla de una manera eficiente, informada, segura, y divertida. No todos tenemos las mismas necesidades al momento de hacer nuestra orden, pero todos queremos estar seguros de que la hicimos bien, que aprovechamos las mejores promociones, y tomamos la mejor decisión entre probar algo nuevo o disfrutar nuestro favorito.
+También el equipo del restaurante quiere estar seguro de que cada orden es correcta, para entregar a cada cliente exactamente lo que quería, independientemente del canal por el que haya realizado su orden en cualquiera de los más de 40,000 McDonald’s alrededor del mundo.
+Cada una de las más de 69 millones de órdenes procesadas diariamente representa empleos y crecimiento para la comunidad donde se encuentra el restaurante.
+
+
+Dirigido a:
+Dirigido a desarrolladores de productos digitales.
+
+
+Descripción del Track en su Entregable/Solución
+Fase 1: Explicación de la idea-solución, justificada, se sube la información en forma de texto a la plataforma de evaluación del Hackathon.
+Fase 2: desarrollo del prototipo, entrega de las evidencias del prototipo en un alto porcentaje de avance.
+Fase 3: FINAL del track, explicación-demo del prototipo y pruebas funcionales del proyecto ante el jurado
+
+
+Recursos
+Todo lo que hacemos está alineado a nuestros valores
+
+
+Serve – We put our customers, our crew, and community first.
+Inclusion – We open our doors to everyone.
+Integrity – We do the right thing.
+Community – We are good neighbors.
+Family – We get better together.
+
+
+Conoce más en la siguiente liga:
+https://www.mcdonalds.com/us/en-us/about-us/values-in-action.html
+
+
+Elementos para Evaluar
+● Creatividad en el uso de la tecnología
+● Enfoque centrado en las personas
+● Factibilidad de implementación
+● Escalabilidad de la solución
+● Funcionalidad del prototipo
+
+
+Términos y Condiciones
+● Entrega y Validación del Proyecto: El equipo ganador debe proporcionar el código fuente y la documentación del proyecto para su revisión. Si se descubre que incumple las reglas del
+hackathon (como plagio o uso no autorizado de software), el premio puede ser revocado.
+● Derechos de Propiedad Intelectual: Los participantes conservan la propiedad de su proyecto, pero otorgan a los organizadores
+una licencia no exclusiva para promocionar y utilizar el proyecto en futuras ediciones del hackathon o materiales de marketing.
+En caso de que el Organizador desee adquirir la propiedad de la idea, código, documentos, materiales, prototipos o la totalidad
+del proyecto, se negociará directamente la compra del mismo con el equipo propietario.
+● Recepción del Premio: Los premios se entregarán únicamente a los integrantes del equipo que participaron activamente en el desarrollo del proyecto y cumplieron con los requisitos del hackathon. Cualquier disputa sobre la distribución del premio debe ser resuelta entre los miembros del equipo.
+● Compromiso con la Ética y Normas del Evento: Si se detecta comportamiento fraudulento, falta de ética o incumplimiento de las normas del hackathon antes, durante o después del evento, los organizadores pueden descalificar al equipo y revocar cualquier premio otorgado.
+● Uso de marca: Los participantes podrán utilizar la marca del organizador únicamente para los prototipos y durante la duración del hackathon. Esta autorización no supone, en ningún caso, transmisión o licencia de derecho alguno de propiedad industrial y/o intelectual sobre sus signos distintivos (marcas o nombres comerciales), ni tampoco la concesión de ningún derecho de carácter contractual.
+
+
+
+
+
+
